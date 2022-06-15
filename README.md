@@ -1,6 +1,6 @@
 ### olá eu sou Keven Souza Grillo
 
-- 🔭 Estou trabalhando atualmente como full stack na @compropay, voltado para as stacks de C# e Angular 10 ...
+- 🔭 Estou trabalhando atualmente como full stack dev Jr na @compropay, voltado para as stacks de C# e Angular 10 ...
 - 🚆✈️🚗🌴🏖️ Travel & Nature 
  
 
