@@ -1,10 +1,7 @@
-### olá eu sou Keven Souza Grillo
+### Hello, my name is Keven Souza Grillo, nice to meet you, welcome to my portfolio!😄
 
-- 🔭 Estou atualmente procurando emprego na área, voltado para as stacks de C# e Angular...
-- 🚆✈️🚗🌴🏖️ Travel & Nature 
- 
+- 🔭 I currently work at a company called Tempro Software, where we work with products aimed at the healthcare area, working with C#, .Net, Sql Server technologies, MVC project patterns, .Net Core and using Entity Frame work for newer projects. 
 
-Olá, Tudo bem ? Eu sou Keven Souza Grillo, seja bem vindo!😄
 <hr>
  <div align="center">
    <a href="https://github.com/Kievgrillo">
