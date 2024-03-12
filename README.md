@@ -15,8 +15,7 @@
   <img align="center" alt="Keven-HTML" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Keven-CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Keven-Csharp" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Keven-Angular" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>       
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/T2AIC0QXBndgpfKNeE/giphy.gif">
+  <img align="center" alt="Keven-Angular" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>     
 </div>
 <hr>
   
