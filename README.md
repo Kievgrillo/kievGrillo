@@ -1,6 +1,6 @@
 ### Hello, my name is Keven Souza Grillo, nice to meet you, welcome to my portfolio!😄
 
-- 🔭 I currently work at a company called Tempro Software, where we work with products aimed at the healthcare area, working with C#, .Net, Sql Server technologies, MVC project patterns, .Net Core and using Entity Frame work for newer projects. 
+
 
 <hr>
  <div align="center">
