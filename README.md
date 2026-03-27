@@ -18,7 +18,7 @@ I’m deeply focused on **architecture, performance, clean code, and the better 
     <img src="https://img.shields.io/badge/Instagram-@kevegrillo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/keven-grillo-3417a9127/?locale=pt">
-    <img src="https://img.shields.io/badge/LinkedIn-O%20REI%20DO%20SITES-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Keven%20Grillo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
