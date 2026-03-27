@@ -15,7 +15,7 @@ I’m deeply focused on **architecture, performance, clean code, and the better 
     <img src="https://img.shields.io/badge/GitHub-Kievgrillo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/kevegrillo/">
-    <img src="https://img.shields.io/badge/Instagram-@kevegrillo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-kevegrillo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/keven-grillo-3417a9127/?locale=pt">
     <img src="https://img.shields.io/badge/LinkedIn-Keven%20Grillo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
