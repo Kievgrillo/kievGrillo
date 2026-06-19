@@ -4,7 +4,7 @@
 🇧🇷 Brazil
 
 I build **APIs**, **Application Web Pages**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and the better solotion for company and client**.
+I’m deeply focused on **architecture, performance, clean code, and the better solution for company and client**.
 
 ---
 
