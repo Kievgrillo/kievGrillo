@@ -1,6 +1,6 @@
-# Hi  Hi,👋 I am Keven Souza Grillo, welcome to my portfolio
+# Hi,👋 I am Keven Souza Grillo, welcome to my portfolio
 
-🚀 **Mid Level Software Engineer**  
+🚀 **Software Engineer .Net | C# | React  **  
 🇧🇷 Brazil
 
 I build **APIs**, **Application Web Pages**, and **high-performance web systems**.  
