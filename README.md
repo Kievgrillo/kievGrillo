@@ -1,6 +1,6 @@
 # Hi,👋 I am Keven Souza Grillo, welcome to my portfolio
 
-🚀 **Software Engineer .Net | C# | React  **  
+🚀 **Software Engineer .Net | C# | React | Pyhthon | Java **  
 🇧🇷 Brazil
 
 I build **APIs**, **Application Web Pages**, and **high-performance web systems**.  
@@ -42,12 +42,14 @@ I’m deeply focused on **architecture, performance, clean code, and the better 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Backend
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 ![SqlServer](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### DevOps & Tools
 
